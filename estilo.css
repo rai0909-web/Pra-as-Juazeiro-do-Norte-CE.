@@ -1,0 +1,10 @@
+body{
+background-color: rgb(64, 64, 207);
+
+}
+
+
+
+#mapaLeaflet {
+    height: 600px;
+}
